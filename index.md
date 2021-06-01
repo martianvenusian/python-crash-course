@@ -25,6 +25,16 @@ Shu kunda, Pythonning 2ta versiyasi mavjub. Python 2 va yangiroq bo'lgan Python 
  
 Agar tizimingizda ikkala versiya ham o'rnatilgan bo'lsa yoki Pythonni o'rnatishingiz kerak bo'lsa, Python3 ni ishlating. Agar Python 2 tizimda o'rnatilgan yagona versiya bo'lsa va siz Pythonni o'rnatmasdan birdan kod yozishga o'tib ketishni istasangiz, unda, Python 2 dan foydalansangiz bo'ladi. Ammao, tez orada Python 3ga yangilashingiz yaxshiroqdir, va shunda siz eng yangi versiya bilan ishlayotgan bo'lasiz.
 
+#### Python kodining qimlarini ishga tushirish
+Python windows [terminal]()ida ishlaydigan [interpreter]() bilan birga keladi va u dasturini saqlamasdan va butun dasturni ishga tushirmasdan Pythondan qisman foydalanishga imkon beradi.
+ 
+Bu kitob davomida, quydagi kabi parchalarni ko'rasiz."
+```bash
+>>> print("Hello Python interpreter")
+Hello Python interpreter
+```
+Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga tushiradigan kod. Bu kitobdagi ko'plab misollar kichik va mustaqil dasturlardan iborat. Ularni [editor]() yordamida ishga tushirasiz, chunki siz kodingizning ko'p qismini shunday yozasiz. Lekin ba'zan asos tushinchalar kod qismlari ketma-ketligi shaklida Python `terminal`i orqali ko'rsatiladi. Va bu ba'zi yakka holda uchraydigan mavzularni yanada samarali ifodalashgan imkon beradi. Har safar kod ketma-ketligida uchta burchali qavslarni ko'rganingizda, siz `terminal`dan foydalanayotgan bo'lasiz. Birozdan so'ng tizim uchun `interpreter`da kodni yozishni ko'rib chiqamiz.
+
 
 ```markdown
 ### 2-bob
