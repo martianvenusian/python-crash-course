@@ -73,8 +73,14 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Bu natija sizda Python 3 ham o'rnatilganini anglatadi, va shuning uchun istagan ikkita versiyani ishlatishingiz mumkin. Bu kitobning qayerida bo'lsa ham **python** buyrug'ini ko'rsangiz, buning o'rniga **python3** deb kiriting. Ko'pchilik Linux tarqatmalarida Python oldindan o'rnatilgan bo'ladi, ammo qandaydir sabab bilan sizning tizimingizda o'rnatilmagan bo'lsa yoki Python 2 o'rnatilgan bo'lsa va siz Python 3 ni o'rnatmoqchi bo'lsangiz, [Appendix A]() ga qarang.
 
+#### Matn taxrirlovchi dasturni o'rnatish
 
+`Geany` sodda matn taxrirlovchi dasturdir: U o'rnatish oson, deyarli barch dasturlaringizni to'g'ridan to'g'ri terminalsiz matn taxrirlovchi dasturning o'zidan ishga tushirishga imkon beradi, kodlaringizni ranglarda ko'rsatish uchun sintaksis belgilarini ishlatadi, va kodingizni terminal oynasida ishga tushiradi va siz terminaldan foydalanishga ko'nikmalar hosil qilasiz. [Appendix B]() boshqa matn taxrirlovchi dasturlar haqida malumot beradi, amma agar sizda boshqa matn taxrirlovchi dasturdan ishlatishga yaxshi bir o'rinli sabab bo'lmasa men sizlarga `Geany`dan foydalanishni maslaxat beraman.
 
+Linux tizimida Geanyni bir qator kode bilan o'rnatishingiz mumkin
+```bash
+$ sudo apt-get install geany
+```
 
 
 
