@@ -39,6 +39,31 @@ Python [cross-platform]() dasturlash tilidir, yani u katta ososiy operatsion tiz
 Bu bo'limda qanday qilib Pythonni tizimingizga o'rnatish va _Hello World_ dasturini ishga tushirishni o'rganasiz. Birinchi Python tizimda o'rnatilgan-o'rnatilmagaini tekshirasiz, agar o'rnatilmagan bo'lsa uni o'rnatasiz. Keyin oddiy matn taxrirlash dasturini o'rnatasiz va _hello_world.py_ deb nomlangan bo'sh Python faylni saqlaysiz. Yakunida, _Hello World_ dasturini ishga tushirasiz va agar biror nima ishlamasa muammolarni bartaraf etasiz. Man har bir operatsion tizimda bu jarayonlar davomida siz bilan birga bo'laman va siz Python dasturlash muhitiga yangi boshlovchi sifatida ko'nikmalar hozil qilasiz.
 
 ##### Linuxda Python
+Linux tizimi dasturchilar uchun ishlab chiqarilgan, va shuning uchun Python allaqachon ko'pchilik Linux [computer]larida o'rnatilgan bo'ladi. Linuxni yaratgan va uni rivojlantiruvchilar sizdan qaysidir vaqtda o'z dasturingizni yozishingizga umid qilishadi va buning uchun sizni qo'llab-qo'vvatlashadi. Shu sababdan dasturlashni boshlashingiz uchun o'rnatish va sozlamalarni juda kim amalga oshirasiz.
+
+##### Python versiyasini tekshirish
+Tizimingizdagi `Terminal` ilovasini ishga tushirish orqali [terminal]() oynasini ishga tushiring ([Ubuntu]()da, `CTRL-ALT-T` ni bosishingiz mumkin). Python o'rnatilgan-ornatilmaganini tekshirish uchun, **python** deb kichkina _p_ xarf bilan kiriting. Shunda siz o'rnatilgan Pythonnig versiyasini ko'rishingiz kerak va `>>>` belgi bu siz python buyruqlarini yozadigan joydir:
+
+```bash
+$ python
+Python 2.7.6 (default, Mar 22 2014, 22:59:38)
+[GCC 4.8.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Bu natija Python 2.7.6ni ko'rsatadi va bu ayni vaqtda shu [computer]()da o'rnatilgan Pythonning standart versiyasi bo'ladi. Siz bu natijani ko'rganingizda, Python bo'yruq oynasidan chiqish uchun `CTRL-D`ni bosing yoki `exit()` ni kiriting.
+
+Python 3 ni tekshirish uchun, bu versiyaning tasdiqlab ko'rsatishingizga to'g'ri kelishi mumkin; natija Pythonnning standart versiyasini Python 2.7 deb ko'rsatgan bo'lsa ham, **python3** deb yozib ko'ring
+
+```
+$ python3
+Python 3.5.0 (default, Sep 17 2015, 13:05:18)
+[GCC 4.8.4] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+```
+
+Bu natija sizda Python 3 ham o'rnatilganini anglatadi, va shuning uchun istagan ikkita versiyani ishlatishingiz mumkin. Bu kitobning qayerida bo'lsa ham **python** buyrug'ini ko'rsangiz, buning o'rniga **python3** deb kiriting. Ko'pchilik Linux tarqatmalarida Python oldindan o'rnatilgan bo'ladi, ammo qandaydir sabab bilan sizning tizimingizda o'rnatilmagan bo'lsa yoki Python 2 o'rnatilgan bo'lsa va siz Python 3 ni o'rnatmoqchi bo'lsangiz, [Appendix A]() ga qarang.
 
 
 
