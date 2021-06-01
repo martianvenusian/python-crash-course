@@ -13,9 +13,19 @@ Bu kitobning birinchi bo'limi sizga Python dasturlarini yozishingizda kerak bo'l
 - **10-bob** qanday qilib `file`()lar bilan ishlashni va dasturingiz to'satdan [carsh]() chiqmasligi uchun [error]()ni qanday qilib bartaraf etishni ko'rsatadi. Dasturingiz yopilishidan oldin ma'lumotlarni saqlab va dastur qayta ishga tushganda ma'lumotlarni qayta o'qiydigan bo'lasiz. Siz Pythonning `exception`()lari haqida o'rganasiz. Bu sizga ko'tilayotgan xatolarga tayyor turish va dasturingiz bu xotolarni ajoyib tarizda bartaraf etishga imkon beradi.
 - **11-bob**da dasturingiz risoladagidek ishlashini bilish uchun kodlaringizga qanday qilib `test` yozishni o'rganasiz. Natijada, yangi [bug]()lar chiqishidan havotir olmasdan o'z dasturingizni kengaytirib boradigan bo'lasiz. Kodni test qilish bu boshlang'ich darajadan o'rta darajadagi dasturchiga aylanishingizga yordam beradigan dastlabki ko'nikmalarning biridir.
 
-```markdown
-### 1-bob
 
+### 1-bob: Birinchi qadam
+Bu bobda o'zingizning birinchi Pyhton dasturingiz, _hello_world.py_ni ishga tushirasiz. Birinchi, Python o'rnatilgan yoki o'rnatilmaganligini tekshirasiz; agar o'rnatilmagan bo'lsa, unda uni o'rnatasiz. Qolaversa Python bilan ishlash uchun matnni taxrirlovchi dastur [text editor]ni o'rnatasiz. Matnni taxrirlovchi dastur Python kodini tushinadi va yozishingiz davomida bo'limlarni ajratib ko'rsatadi, kodingiznig tuzilishini oson tushinish uchun kodni belgilar bilan ifodalaydi.
+
+#### Dasturlash muhitini sozlash
+Python turli operatsion tizimlarda biroz farq qiladi, shuning uchun bazi narsalarni yodda tutishingiz kerak. Bu yerda, siz amalda ishlatiladigan Pythonning ikkita asosiy versiyasini va uni operatsion tizimingizga o'rnatish bosqichlarini ko'rib chiqasiz. 
+
+##### Python 2 va Python 3
+Shu kunda, Pythonning 2ta versiyasi mavjub. Python 2 va yangiroq bo'lgan Python 3. Har bir dasturlash tili yangi g'oya va texnologiyalar kelib chiqishidan vujudga keladi, va Python dasturchilari uzluksiz bu tilni ko'p tarmoqli va ko'chli qilib rivojlantirib kelishdi. Ko'plab o'zgarishlar bosqichma-bosqich va anglash qiyin, bazi hollarda Python 2 uchun yozilgan kod Python 3 o'rnatilgan tizimlarda ishlamasligi ham mumkin. Bu kitob davomida Python 2 va Python 3 orasidagi muhim farqlarni ko'rsatib o'taman, va qaysi birini ishlatishingizdan qat'iy nazar, kitobdagi ko'rsatmalarga ergasha olasiz.
+ - Agar tizimingizda ikkala versiya ham o'rnatilgan bo'lsa yoki Pythonni o'rnatishingiz kerak bo'lsa, Python3 ni ishlating. Agar Python 2 tizimda o'rnatilgan yagona versiya bo'lsa va siz Pythonni o'rnatmasdan birdan kod yozishga o'tib ketishni istasangiz, unda, Python 2 dan foydalansangiz bo'ladi. Ammao, tez orada Python 3ga yangilashingiz yaxshiroqdir, va shunda siz eng yangi versiya bilan ishlayotgan bo'lasiz.
+
+
+```markdown
 ### 2-bob
 
 ### 3-bob
