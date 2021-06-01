@@ -1,5 +1,3 @@
-# PYTHON CRASH COURSE
-
 ## Bo'lim 1: Asoslar
 Bu kitobning birinchi bo'limi sizga Python dasturlarini yozishingizda kerak bo'ladigan asosiy tushinchalrni o'rgatadi. Ushbu tushinchalarning aksariyati barcha dasturlash tillari uchun umumiydir va bu sizning dasturchi sifatida butun hayotinggiz davomida foydali bo'ladi.
  - **1-bob**da Python dasturini compyuteringizga o'rnatasiz va _Hello world!_ degan xabarni ekranga chiqaruvchi birinchi dasturingizni ishga tushirasiz.
@@ -40,7 +38,7 @@ Python [cross-platform]() dasturlash tilidir, yani u katta ososiy operatsion tiz
 
 Bu bo'limda qanday qilib Pythonni tizimingizga o'rnatish va _Hello World_ dasturini ishga tushirishni o'rganasiz. Birinchi Python tizimda o'rnatilgan-o'rnatilmagaini tekshirasiz, agar o'rnatilmagan bo'lsa uni o'rnatasiz. Keyin oddiy matn taxrirlash dasturini o'rnatasiz va _hello_world.py_ deb nomlangan bo'sh Python faylni saqlaysiz. Yakunida, _Hello World_ dasturini ishga tushirasiz va agar biror nima ishlamasa muammolarni bartaraf etasiz. Man har bir operatsion tizimda bu jarayonlar davomida siz bilan birga bo'laman va siz Python dasturlash muhitiga yangi boshlovchi sifatida ko'nikmalar hozil qilasiz.
 
-## Linuxda Python
+#### Linuxda Python
 
 
 
