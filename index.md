@@ -36,7 +36,7 @@ Hello Python interpreter
 Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga tushiradigan kod. Bu kitobdagi ko'plab misollar kichik va mustaqil dasturlardan iborat. Ularni [editor]() yordamida ishga tushirasiz, chunki siz kodingizning ko'p qismini shunday yozasiz. Lekin ba'zan asos tushinchalar kod qismlari ketma-ketligi shaklida Python `terminal`i orqali ko'rsatiladi. Va bu ba'zi yakka holda uchraydigan mavzularni yanada samarali ifodalashgan imkon beradi. Har safar kod ketma-ketligida uchta burchali qavslarni ko'rganingizda, siz `terminal`dan foydalanayotgan bo'lasiz. Birozdan so'ng tizim uchun `interpreter`da kodni yozishni ko'rib chiqamiz.
 
 
-```markdown
+
 ### 2-bob
 
 ### 3-bob
@@ -56,11 +56,11 @@ Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga 
 ### 10-bob
 
 ### 11-bob
-```
+
 
 ## Bo'lim 2: Loyihalar
 
-```markdown
+
 ## Loyiha 1
 
 ### 12-bob
@@ -84,4 +84,4 @@ Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga 
 ### 19-bob
 
 ### 20-bob
-```
+
