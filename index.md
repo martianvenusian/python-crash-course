@@ -33,6 +33,14 @@ Hello Python interpreter
 ```
 Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga tushiradigan kod. Bu kitobdagi ko'plab misollar kichik va mustaqil dasturlardan iborat. Ularni [editor]() yordamida ishga tushirasiz, chunki siz kodingizning ko'p qismini shunday yozasiz. Lekin ba'zan asos tushinchalar kod qismlari ketma-ketligi shaklida Python `terminal`i orqali ko'rsatiladi. Va bu ba'zi yakka holda uchraydigan mavzularni yanada samarali ifodalashgan imkon beradi. Har safar kod ketma-ketligida uchta burchali qavslarni ko'rganingizda, siz `terminal`dan foydalanayotgan bo'lasiz. Birozdan so'ng tizim uchun `interpreter`da kodni yozishni ko'rib chiqamiz.
 
+##### Hello World!
+Dasturlash olamida yangi tilda birinchi dastur sifatida _Hello world!_ xabarini ekranga chiqarish baxt keltiradi degan uzoq-yillik ishonch bor.
+Pythonda, _Hello World_ dasturini bir qator kod bilan yozish mumkin.
+```
+print("Hello World!")
+```
+Bunday oddiy dastur juda haqiqiy maqsadlar uchun xizmat qiladi. Agar u tizimingizda to'g'ri ishlasa, demak siz yozadigan har qanday boshqa Python dasturi ham ishlashi kerak. Biz tez orada malum bir operatsion tizimda bu dasturni qanday yozishni ko'rib chiqamiz.
+
 #### Turli operatsion tizimlarda Python
 Python [cross-platform]() dasturlash tilidir, yani u katta ososiy operatsion tizimlarning barchasida ishlaydi. Har qanday siz yozgan Python dasturi Python o'rnatilgan har qanday yangi [computer]()da ishlashi kerak. Biroq, Pythonni turli operatsion tizimlariga o'rnatish usuli biroz farq qiladi.
 
