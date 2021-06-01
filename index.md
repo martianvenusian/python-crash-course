@@ -23,7 +23,7 @@ Shu kunda, Pythonning 2ta versiyasi mavjub. Python 2 va yangiroq bo'lgan Python 
  
 Agar tizimingizda ikkala versiya ham o'rnatilgan bo'lsa yoki Pythonni o'rnatishingiz kerak bo'lsa, Python3 ni ishlating. Agar Python 2 tizimda o'rnatilgan yagona versiya bo'lsa va siz Pythonni o'rnatmasdan birdan kod yozishga o'tib ketishni istasangiz, unda, Python 2 dan foydalansangiz bo'ladi. Ammao, tez orada Python 3ga yangilashingiz yaxshiroqdir, va shunda siz eng yangi versiya bilan ishlayotgan bo'lasiz.
 
-#### Python kodining qimlarini ishga tushirish
+##### Python kodining qimlarini ishga tushirish
 Python windows [terminal]()ida ishlaydigan [interpreter]() bilan birga keladi va u dasturini saqlamasdan va butun dasturni ishga tushirmasdan Pythondan qisman foydalanishga imkon beradi.
  
 Bu kitob davomida, quydagi kabi parchalarni ko'rasiz."
@@ -33,12 +33,12 @@ Hello Python interpreter
 ```
 Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga tushiradigan kod. Bu kitobdagi ko'plab misollar kichik va mustaqil dasturlardan iborat. Ularni [editor]() yordamida ishga tushirasiz, chunki siz kodingizning ko'p qismini shunday yozasiz. Lekin ba'zan asos tushinchalar kod qismlari ketma-ketligi shaklida Python `terminal`i orqali ko'rsatiladi. Va bu ba'zi yakka holda uchraydigan mavzularni yanada samarali ifodalashgan imkon beradi. Har safar kod ketma-ketligida uchta burchali qavslarni ko'rganingizda, siz `terminal`dan foydalanayotgan bo'lasiz. Birozdan so'ng tizim uchun `interpreter`da kodni yozishni ko'rib chiqamiz.
 
-### Turli operatsion tizimlarda Python
+#### Turli operatsion tizimlarda Python
 Python [cross-platform]() dasturlash tilidir, yani u katta ososiy operatsion tizimlarning barchasida ishlaydi. Har qanday siz yozgan Python dasturi Python o'rnatilgan har qanday yangi [computer]()da ishlashi kerak. Biroq, Pythonni turli operatsion tizimlariga o'rnatish usuli biroz farq qiladi.
 
 Bu bo'limda qanday qilib Pythonni tizimingizga o'rnatish va _Hello World_ dasturini ishga tushirishni o'rganasiz. Birinchi Python tizimda o'rnatilgan-o'rnatilmagaini tekshirasiz, agar o'rnatilmagan bo'lsa uni o'rnatasiz. Keyin oddiy matn taxrirlash dasturini o'rnatasiz va _hello_world.py_ deb nomlangan bo'sh Python faylni saqlaysiz. Yakunida, _Hello World_ dasturini ishga tushirasiz va agar biror nima ishlamasa muammolarni bartaraf etasiz. Man har bir operatsion tizimda bu jarayonlar davomida siz bilan birga bo'laman va siz Python dasturlash muhitiga yangi boshlovchi sifatida ko'nikmalar hozil qilasiz.
 
-#### Linuxda Python
+##### Linuxda Python
 
 
 
