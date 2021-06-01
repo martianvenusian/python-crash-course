@@ -22,7 +22,8 @@ Python turli operatsion tizimlarda biroz farq qiladi, shuning uchun bazi narsala
 
 ##### Python 2 va Python 3
 Shu kunda, Pythonning 2ta versiyasi mavjub. Python 2 va yangiroq bo'lgan Python 3. Har bir dasturlash tili yangi g'oya va texnologiyalar kelib chiqishidan vujudga keladi, va Python dasturchilari uzluksiz bu tilni ko'p tarmoqli va ko'chli qilib rivojlantirib kelishdi. Ko'plab o'zgarishlar bosqichma-bosqich va anglash qiyin, bazi hollarda Python 2 uchun yozilgan kod Python 3 o'rnatilgan tizimlarda ishlamasligi ham mumkin. Bu kitob davomida Python 2 va Python 3 orasidagi muhim farqlarni ko'rsatib o'taman, va qaysi birini ishlatishingizdan qat'iy nazar, kitobdagi ko'rsatmalarga ergasha olasiz.
- - Agar tizimingizda ikkala versiya ham o'rnatilgan bo'lsa yoki Pythonni o'rnatishingiz kerak bo'lsa, Python3 ni ishlating. Agar Python 2 tizimda o'rnatilgan yagona versiya bo'lsa va siz Pythonni o'rnatmasdan birdan kod yozishga o'tib ketishni istasangiz, unda, Python 2 dan foydalansangiz bo'ladi. Ammao, tez orada Python 3ga yangilashingiz yaxshiroqdir, va shunda siz eng yangi versiya bilan ishlayotgan bo'lasiz.
+ 
+Agar tizimingizda ikkala versiya ham o'rnatilgan bo'lsa yoki Pythonni o'rnatishingiz kerak bo'lsa, Python3 ni ishlating. Agar Python 2 tizimda o'rnatilgan yagona versiya bo'lsa va siz Pythonni o'rnatmasdan birdan kod yozishga o'tib ketishni istasangiz, unda, Python 2 dan foydalansangiz bo'ladi. Ammao, tez orada Python 3ga yangilashingiz yaxshiroqdir, va shunda siz eng yangi versiya bilan ishlayotgan bo'lasiz.
 
 
 ```markdown
