@@ -141,6 +141,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
  | 
 4|    greet_user()
 ```
+```
 | Status | Response  |
 | ------ | --------- |
 | 200    | `json`                          |
@@ -150,7 +151,8 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 |        | ` more code...`                 |
 |        | `}`                             |
 | 400    |                                 |
-
+```
+```
 +---------------+--------+---------+
 |       \       | Rating | Comment |
 +---------------+--------+---------+
@@ -162,7 +164,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 +---------------+----+---+---------+
 | Death Note    |  A | B |       ♠ |
 +---------------+----+---+---------+
-
+```
 ### 9-bob
 
 ### 10-bob
