@@ -86,38 +86,6 @@ $ sudo apt-get install geany
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 2-bob
 
 ### 3-bob
@@ -143,6 +111,16 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 4|greet_user()
 ```
 
+Bu misol funksiyaning oddiy tuzilishini ko'rsatyapti. **1**-qatorda funksiyani yaratayotganimizni ta'riflash uchun `def` atamasi ishlatiladi. Bu _funksiyani ta'riflash_ funksiyaning nomini va, agar joiz bo'lsa, bu funksiya o'z ishini bajarishi uchun qanday turdagi ma'lumotlar kerakligini Pythonga aytadi. Qavslar esa bu ma'lumot turlarini o'z ichida ifodalaydi. Hozirgi holatda funksiyaning nomi **greet_user()** bo'lib u o'z vazifasini bajarishi uchun unga hech qanday ma'lumot kerak emas, va shuning uchun qavslar bo'sh ko'rsatilgan. (Lekin baribir qavslarni ishlatish talab etiladi). Ohirida, funksiyani ta'riflash ikki nuqta bilan yakunlanadi.
+
+Har qanday  **def greet_user():** dan keyin keladigan qator funksiyaning *tana*sini tashkel etadi. **2**-qatordagi yozuv *[docstring]*() deb ataluvchi izoh bo'lib funksiya nima qilishini ifodalaydi. *[DocString]*lar uch tirnoq orasiga olinadi va Python dasturingizda shu funksiyangiz uchun xujjat yaratganda shu izohni qidiradi.
+
+**3**-qatordagi **print("Hello!")** bu, ushbu funksiyaning tanasidagi yagona haqiqiy koddir, va shuning uchun **def greet_user():** faqatgina bitta vazifaga ega: **print("Hello!")**.
+
+Bu funksiyadan foydalanishni istagan faqtingizda uni chaqirasiz. *Funksiyani chaqirish* Pythonga bu funksiyaning ichidagi kodni ishga tushirishni aytadi. Har qanday funksiyani *chaqirish* uchun, **4**-qatorda ko'rsatilganidek funksiyaning nomini yozib qavslarning ichiga kerakli ma'lumotlarni kiritasiz. Bu yerda hech qanday ma'lumotni kiritishga ihtiyoj bo'lmagani uchun soddagina qilib **greet_user()** deb funksiyamizni chaqiramiz. Ko'tilganidek, u **Hello!** degan yozuvni chiqaradi.
+```
+Hello!
+```
 ### 9-bob
 
 ### 10-bob
