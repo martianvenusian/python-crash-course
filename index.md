@@ -150,7 +150,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 <td>
 
 ^ Extra blank line above!
-```json
+```bash
 json
 {
     "id": 10,
