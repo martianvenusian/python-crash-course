@@ -36,7 +36,7 @@ Qora yozuv bilan yozilgan yozuv bu siz yozadigan va keyin `ENTER`ni bosib ishga 
 ##### Hello World!
 Dasturlash olamida yangi tilda birinchi dastur sifatida _Hello world!_ xabarini ekranga chiqarish baxt keltiradi degan uzoq-yillik ishonch bor.
 Pythonda, _Hello World_ dasturini bir qator kod bilan yozish mumkin.
-```
+```bash
 print("Hello World!")
 ```
 Bunday oddiy dastur juda haqiqiy maqsadlar uchun xizmat qiladi. Agar u tizimingizda to'g'ri ishlasa, demak siz yozadigan har qanday boshqa Python dasturi ham ishlashi kerak. Biz tez orada malum bir operatsion tizimda bu dasturni qanday yozishni ko'rib chiqamiz.
@@ -69,6 +69,7 @@ $ python3
 Python 3.5.0 (default, Sep 17 2015, 13:05:18)
 [GCC 4.8.4] on linux
 Type "help", "copyright", "credits" or "license" for more information.
+>>>
 ```
 
 Bu natija sizda Python 3 ham o'rnatilganini anglatadi, va shuning uchun istagan ikkita versiyani ishlatishingiz mumkin. Bu kitobning qayerida bo'lsa ham **python** buyrug'ini ko'rsangiz, buning o'rniga **python3** deb kiriting. Ko'pchilik Linux tarqatmalarida Python oldindan o'rnatilgan bo'ladi, ammo qandaydir sabab bilan sizning tizimingizda o'rnatilmagan bo'lsa yoki Python 2 o'rnatilgan bo'lsa va siz Python 3 ni o'rnatmoqchi bo'lsangiz, [Appendix A]() ga qarang.
@@ -133,7 +134,7 @@ Bu bobda siz `function`larni yozishni o'rganasiz. Funksiyalar bu nomlangan kodni
 Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosiy ishi ma'lumotlarni namoyish qilish bo'lgan yaxlit funksiyalar va [data]()larni qayta ishlab o'zgaruvchi yoki o'zgaruvchilar to'plamini qaytarishga mo'ljallangan boshqa funksiyalarni qanday qilib yozishni o'rganasiz. Nihoyat, asosiy dasturingizning fayllarini tartibga solishga yordam berish uchun funksiyalarni _modul_lar deb ataluvchi alohida fayllarda saqlashni o'rganasiz.
 
 #### Funksiyani yaratish
-```markdown
+```bash
 def greet_user():
     """Display a simple greeting."""
     print("Hello!")
