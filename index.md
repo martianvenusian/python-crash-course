@@ -141,34 +141,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
  | 
 4|greet_user()
 ```
-<table>
-<tr>
-<td> Status </td> <td> Response </td>
-</tr>
-<tr>
-<td> 200 </td>
-<td>
 
-```
-def greet_user():
-    """Display a simple greeting."""
-    print("Hello!")
-     
-greet_user()
-```
-
-
-</td>
-</tr>
-<tr>
-<td> 400 </td>
-<td>
-
-**Markdown** _here_. (Blank lines needed before and after!)
-
-</td>
-</tr>
-</table>
 ### 9-bob
 
 ### 10-bob
