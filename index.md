@@ -141,14 +141,15 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
  | 
 4|    greet_user()
 ```
-| qator | Kod  |
+| Status | Response  |
 | ------ | --------- |
-| 1 | `def greet_user():`                      |
-| 2 | `    """Display a simple greeting."""`   |
-| 3 | `    print("Hello!")`                    |
-|   | ` `                                      |
-| 4 | `    greet_user()`                       |
-
+| 200    | `json`                          |
+|        | `   {`                          |
+|        | ` "id": 10,`                    |
+|        | ` "username": "alanpartridge",` |
+|        | ` more code...`                 |
+|        | `}`                             |
+| 400    |                                 |
 
 ### 9-bob
 
