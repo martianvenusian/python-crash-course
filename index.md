@@ -149,15 +149,14 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 <td> 200 </td>
 <td>
 
-^ Extra blank line above!
-```python
+```
 def greet_user():
     """Display a simple greeting."""
     print("Hello!")
      
 greet_user()
 ```
-V Extra blank line below!
+
 
 </td>
 </tr>
