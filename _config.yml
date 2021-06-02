@@ -5,3 +5,15 @@ description: [o'zbek tilida]
 github:
   martianvenusian_url: https://martianvenusian.github.io
   repository_name: [Python Crash Course]
+
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: csharp
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true

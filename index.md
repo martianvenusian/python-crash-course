@@ -128,7 +128,18 @@ $ sudo apt-get install geany
 
 ### 7-bob
 
-### 8-bob
+### 8-bob: Funcsiyalar
+Bu bobda siz `function`larni yozishni o'rganasiz. Funksiyalar bu nomlangan kodning blok qismi bo'lib maxsus vazifani bajarish uchun yaratiladi. Siz [function]() orqali belgilagan biror bir vazifani ishga tushirishni istasangiz, o'sha vazifaga javobgar bo'lgan funksiyaning nomini chaqirasiz. Dasturingiz davomida bu vazifani bir necha marta ishga tushirmoqchi bo'lsangiz bu vazifa uchun kodlarni qayta qayta yozishingiz kerak bo'lmaydi; shunchaki bu vazifani bajarishga ma'sul bo'lgan funksiyani chaqirasiz, va bu chaqiriq Pythonga bu funksiya ichidagi kodni ishga tushirishni aytadi. Funksiyadan foydalanish dastur yozishni, o'qishni, test qilishni va kodni tuzatishni osonlashtirishi haqida bilib olasiz.
+Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosiy ishi ma'lumotlarni namoyish qilish bo'lgan yaxlit funksiyalar va [data]()larni qayta ishlab o'zgaruvchi yoki o'zgaruvchilar to'plamini qaytarishga mo'ljallangan boshqa funksiyalarni qanday qilib yozishni o'rganasiz. Nihoyat, asosiy dasturingizning fayllarini tartibga solishga yordam berish uchun funksiyalarni _modul_lar deb ataluvchi alohida fayllarda saqlashni o'rganasiz.
+
+#### Funksiyani yaratish
+```markdown
+def greet_user():
+    """Display a simple greeting."""
+    print("Hello!")
+
+x greet_user()
+```
 
 ### 9-bob
 
