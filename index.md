@@ -135,11 +135,11 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 
 #### Funksiyani yaratish
 ```
-``1 >`` def greet_user():
-``2 >``    """Display a simple greeting."""
-``3 >``    print("Hello!")
-``  >``
-``4 >``    greet_user()
+1| def greet_user():
+2|    """Display a simple greeting."""
+3|    print("Hello!")
+ | 
+4|    greet_user()
 ```
 
 ### 9-bob
