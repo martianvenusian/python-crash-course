@@ -134,7 +134,7 @@ Bu bobda siz `function`larni yozishni o'rganasiz. Funksiyalar bu nomlangan kodni
 Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosiy ishi ma'lumotlarni namoyish qilish bo'lgan yaxlit funksiyalar va [data]()larni qayta ishlab o'zgaruvchi yoki o'zgaruvchilar to'plamini qaytarishga mo'ljallangan boshqa funksiyalarni qanday qilib yozishni o'rganasiz. Nihoyat, asosiy dasturingizning fayllarini tartibga solishga yordam berish uchun funksiyalarni _modul_lar deb ataluvchi alohida fayllarda saqlashni o'rganasiz.
 
 #### Funksiyani yaratish
-```
+```python
 1| def greet_user():
 2|    """Display a simple greeting."""
 3|    print("Hello!")
