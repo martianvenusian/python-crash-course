@@ -53,13 +53,14 @@ Linux tizimi dasturchilar uchun ishlab chiqarilgan, va shuning uchun Python alla
 Tizimingizdagi `Terminal` ilovasini ishga tushirish orqali [terminal]() oynasini ishga tushiring ([Ubuntu]()da, `CTRL-ALT-T` ni bosishingiz mumkin). Python o'rnatilgan-ornatilmaganini tekshirish uchun, **python** deb kichkina _p_ xarf bilan kiriting. Shunda siz o'rnatilgan Pythonnig versiyasini ko'rishingiz kerak va `>>>` belgi bu siz python buyruqlarini yozadigan joydir:
 
 
-> ```$ python```
-> ```Python 2.7.6 (default, Mar 22 2014, 22:59:38)```
-> ```[GCC 4.8.2] on linux2```
-> ```Type "help", "copyright", "credits" or "license" for more information.```
-> ```>>>```
 
-
+```
+$ python
+Python 2.7.6 (default, Mar 22 2014, 22:59:38)
+[GCC 4.8.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
 
 Bu natija Python 2.7.6ni ko'rsatadi va bu ayni vaqtda shu [computer]()da o'rnatilgan Pythonning standart versiyasi bo'ladi. Siz bu natijani ko'rganingizda, Python bo'yruq oynasidan chiqish uchun `CTRL-D`ni bosing yoki `exit()` ni kiriting.
 
