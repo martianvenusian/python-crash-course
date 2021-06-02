@@ -7,13 +7,18 @@ github:
   repository_name: [Python Crash Course]
 
 
-markdown: kramdown
+# markdown: kramdown
+# kramdown:
+#   syntax_highlighter: rouge
+#   syntax_highlighter_opts:
+#     default_lang: csharp
+#     css_class: 'highlight'
+#     span:
+#       line_numbers: false
+#     block:
+#       line_numbers: true
+
 kramdown:
-  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    default_lang: csharp
-    css_class: 'highlight'
-    span:
-      line_numbers: false
     block:
       line_numbers: true
