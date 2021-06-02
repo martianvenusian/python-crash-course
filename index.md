@@ -139,7 +139,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 2|    """Display a simple greeting."""
 3|    print("Hello!")
  | 
-4|    greet_user()
+4|greet_user()
 ```
 <table>
 <tr>
@@ -150,17 +150,12 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 <td>
 
 ^ Extra blank line above!
-```bash
-json
-{
-    "id": 10,
-    "username": "alanpartridge",
-    "email": "alan@alan.com",
-    "password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS",
-    "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",
-    "created_at": "2015-02-14T20:45:26.433Z",
-    "updated_at": "2015-02-14T20:45:26.540Z"
-}
+```python
+def greet_user():
+    """Display a simple greeting."""
+    print("Hello!")
+     
+greet_user()
 ```
 V Extra blank line below!
 
