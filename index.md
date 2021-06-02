@@ -135,11 +135,11 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
 
 #### Funksiyani yaratish
 ```bash
-**`1`** def greet_user():
-**`2`**     """Display a simple greeting."""
-**`3`**     print("Hello!")
+def greet_user():
+    """Display a simple greeting."""
+    print("Hello!")
 
-**`4`** greet_user()
+    greet_user()
 ```
 
 ### 9-bob
