@@ -141,30 +141,7 @@ Bu bobda siz yana malumotlarni funksiyaga o'tkazish yo'llarini o'rganasiz. Asosi
  | 
 4|    greet_user()
 ```
-```
-| Status | Response  |
-| ------ | --------- |
-| 200    | `json`                          |
-|        | `   {`                          |
-|        | ` "id": 10,`                    |
-|        | ` "username": "alanpartridge",` |
-|        | ` more code...`                 |
-|        | `}`                             |
-| 400    |                                 |
-```
-```
-+---------------+--------+---------+
-|       \       | Rating | Comment |
-+---------------+--------+---------+
-| One Piece     |  A | B |       ♢ |
-+---------------+----+---+---------+
-| Naruto        |  A | C |       ♧ |
-+---------------+----+---+---------+
-| One Punch Man |  A | A |       ♥ |
-+---------------+----+---+---------+
-| Death Note    |  A | B |       ♠ |
-+---------------+----+---+---------+
-```
+
 ### 9-bob
 
 ### 10-bob
