@@ -64,7 +64,7 @@ Bu natija Python 2.7.6ni ko'rsatadi va bu ayni vaqtda shu [computer]()da o'rnati
 
 Python 3 ni tekshirish uchun, bu versiyaning tasdiqlab ko'rsatishingizga to'g'ri kelishi mumkin; natija Pythonnning standart versiyasini Python 2.7 deb ko'rsatgan bo'lsa ham, **python3** deb yozib ko'ring
 
-```
+```bash
 $ python3
 Python 3.5.0 (default, Sep 17 2015, 13:05:18)
 [GCC 4.8.4] on linux
