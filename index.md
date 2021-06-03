@@ -121,6 +121,25 @@ Bu funksiyadan foydalanishni istagan faqtingizda uni chaqirasiz. *Funksiyani cha
 ```
 Hello!
 ```
+
+##### Ma'lumotlarni funksiyaga uzatish
+Ozroq o'zgartirishlardan keyin, **greet_user()** funksiyasi faqat shunchaki foydalanuvchiga **Hello!** deb qolmasdan, foydalanuvchilarning ismini aytim salom bera oladi. Funksiya bu ishni amalga oshirishi uchun, **def greet_user()** deb funksiyani e'lon qilayotganingizda qavslar orasiga **username**ni kirgizasiz. Qavslar orasiga **username**ni qo'shish orqali funksiya siz e'lon qilgan har qanday **username**ning qiymatini qabul qilishiga imkon yaratasiz. Endi funksiya har safar uni chaqirganingizda **username** uchun qiymat berishingizni kutadi. Qachonki **greet_user() deb funksiyani chaqirganingizda unga, masalan 'jesse' deb, qavslar ichiga biror ismni uzata olasiz. 
+```python
+def greet_user(username):
+    """Display a simple greeting."""
+    print("Hello, " + username.title() + "!")
+
+greet_user('jesse')
+```
+
+greet_user('jesse') deb yozilgan kod **greet_user()** ni chaqiradi va **print** operatorini ishga tushirish uchun kerak bo'lgan ma'lumotlarni funksiyaga beradi. Funksiya esa siz uzatgan imsni qabul qiladi va bu ismga salom beradigan yozuvchi chop qiladi.
+
+```bash
+Hello, Jesse!
+```
+
+Huddi shu tarzda, greet_user('sarah') deb kiritilgan kod **greet_user()** ni chaqiradi va unga '\'sarah\''ni uzatadi, va **Hello, Sarah!** deb choq qiladi. Siz **greet_user()**ni istaganingizcha ishlatishingiz mumkin va har safar kutilgan biror bir ismni chop qilish uchun istalgan ismni uzatishingiz mumkin.
+
 ### 9-bob
 
 ### 10-bob
